@@ -22,9 +22,9 @@ for i in range(2, 9):
 **Question 2.**
 
 On conjecture :
-$$
+$
 \chi_n = X^n - \sum_{i=0}^{n-1}\dfrac{1}{n}X^i
-$$
+$
 **Question 3.**
 
 ```python
