@@ -22,7 +22,7 @@ for i in range(2, 9):
 **Question 2.**
 
 On conjecture :
-$\chi_n = X^n - \sum_{i=0}^{n-1}\dfrac{1}{n}X^i$
+$$\chi_n = X^n - \sum_{i=0}^{n-1}\dfrac{1}{n}X^i$$
 **Question 3.**
 
 ```python
@@ -236,8 +236,7 @@ On obtient :
 ```
 
 Soit donc :
-$$
-\begin{align*}
+$$\begin{align*}
 P_1 &= X \\
 P_2 &= X^2 - 1 \\
 P_3 &= X^3 - 2X \\
@@ -246,8 +245,7 @@ P_5 &= X^5 - 4X^3 + 3X \\
 P_6 &= X^6 - 5X^4 + 6X^2 - 1 \\
 P_7 &= X^7 - 6X^5 + 10X^3 - 4X \\
 P_8 &= X^8 - 7X^6 + 15X^4 - 10X^2 + 1
-\end{align*}
-$$
+\end{align*}$$
 Pour les racines, on a :
 
 ```
