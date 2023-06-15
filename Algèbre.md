@@ -120,7 +120,7 @@ plt.show()
 
 On obtient :
 
-<img src="/Users/noedaniel/Library/Application Support/CleanShot/media/media_paLEUognhY/CleanShot 2023-06-15 at 18.46.31@2x.png" alt="CleanShot 2023-06-15 at 18.46.31@2x" style="zoom:50%;" />
+<img src="CleanShot 2023-06-15 at 18.46.31@2x.png" style="zoom:50%;" />
 
 ### Exercice 3.
 
